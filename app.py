@@ -18,7 +18,7 @@ from PIL import Image
 # ⚠️ WARNING: REPLACE THE PLACEHOLDER BELOW WITH YOUR ACTUAL GEMINI API KEY!
 # ----------------------------------------------------------------------
 # Use Streamlit secrets or environment variable in a real app.
-YOUR_GEMINI_API_KEY = "x"
+YOUR_GEMINI_API_KEY = "AIzaSyDZy8jttZMgyuOK7syqdRx_s9dHM-AeT18"
 # ----------------------------------------------------------------------
 
 MODEL_NAME = "gemini-3-pro-preview"
@@ -696,3 +696,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
